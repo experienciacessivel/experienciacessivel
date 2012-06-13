@@ -13,10 +13,15 @@ namespace experienciacessivel.application
     public interface ILocalService
     {
         [OperationContract]
+        [WebGet(UriTemplate = "/GetLocalByName/{name}")]        
         List<LocalResponse> GetLocalByName(string name);
+
+        [OperationContract]
+        [WebGet(UriTemplate = "/GetLocalByName/{name}?format=json", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json)]
+        List<LocalResponse> GetLocalByNameJson(string name);
     }
-  
-    [DataContract]
+
+    [DataContract(Namespace = "")]
     public class LocalResponse
     {
         [DataMember]

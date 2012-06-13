@@ -11,15 +11,13 @@ using experienciacessivel.domain;
 namespace experienciacessivel.application
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in code, svc and config file together.
-    
-    
+
+
     public class LocalService : ILocalService
     {
-        [WebGet(ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Bare,
-        UriTemplate = "/GetLocalByName/{name}")]
         public List<LocalResponse> GetLocalByName(string name)
         {
-            
+
             IUnitOfWork unit = new ExperienciacessivelContext();
 
             LocalRepository localRepository = new LocalRepository(unit);
@@ -28,10 +26,17 @@ namespace experienciacessivel.application
 
             List<LocalResponse> listResponse = new List<LocalResponse>();
 
-            foreach (var loc in locals)            
-                listResponse.Add(new LocalResponse(loc));            
+            foreach (var loc in locals)
+                listResponse.Add(new LocalResponse(loc));
+
 
             return listResponse;
+        }
+
+
+        public List<LocalResponse> GetLocalByNameJson(string name)
+        {
+            return GetLocalByName(name);
         }
     }
 }
