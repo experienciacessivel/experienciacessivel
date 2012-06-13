@@ -7,9 +7,14 @@ using experienciacessivel.domain;
 
 namespace experienciacessivel.infrastructure
 {
-    internal class ExperienciacessivelContext : DbContext
+    public class ExperienciacessivelContext : DbContext, IUnitOfWork
     {
-        public DbSet<Local> Locais { get; private set; }
+        public DbSet<Local> Locais { get; set; }
         public DbSet<AccessibleAttributes> AccessibleAttributes { get; set; }
+
+        public void Save()
+        {
+            SaveChanges();
+        }
     }
 }

@@ -5,8 +5,8 @@ using System.Text;
 
 namespace experienciacessivel.domain
 {
-    public interface IUnitOfWork
+    public interface ILocalRepository
     {
-        void Save();
+        List<Local> GetLocalByName(string name);
     }
 }

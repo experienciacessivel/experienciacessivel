@@ -46,9 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataStoreManager.cs" />
     <Compile Include="ExperienciacessivelContext.cs" />
-    <Compile Include="UnitofWork.cs" />
+    <Compile Include="LocalRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

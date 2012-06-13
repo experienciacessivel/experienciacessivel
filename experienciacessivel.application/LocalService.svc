@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="experienciacessivel.application.LocalService" CodeBehind="LocalService.svc.cs" %>

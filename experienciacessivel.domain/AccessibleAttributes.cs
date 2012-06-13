@@ -10,6 +10,8 @@ namespace experienciacessivel.domain
         public int Id { get; private set; }
         public string Name { get; private set; }
 
+        public IList<Local> Locals { get; private set; }
+
         protected AccessibleAttributes()
         {
         }
@@ -18,6 +20,11 @@ namespace experienciacessivel.domain
         {
             this.Id = id;
             this.Name = name;
+        }
+
+        public AccessibleAttributes(string name)
+        {
+           this.Name = name;
         }
 
         public override bool Equals(object obj)

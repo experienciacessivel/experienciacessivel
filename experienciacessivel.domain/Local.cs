@@ -9,6 +9,7 @@ namespace experienciacessivel.domain
     {
         public int Id { get; private set; }
         public string Name { get; private set; }
+
         public IList<AccessibleAttributes> AccessibleAttributes { get; private set; }
 
         protected Local()
@@ -20,14 +21,19 @@ namespace experienciacessivel.domain
             this.Id = id;
             this.Name = name;
         }
+        public Local(string name, IList<AccessibleAttributes> AccessibleAttributes)
+        {
+            this.Name = name;
+            this.AccessibleAttributes = AccessibleAttributes;
+        }
 
         public override bool Equals(object obj)
-{
-if (obj is Local)
+        {
+            if (obj is Local)
             {
                 return obj.GetHashCode() == this.GetHashCode();
             }
-return false;
+            return false;
         }
 
         public override int GetHashCode()
