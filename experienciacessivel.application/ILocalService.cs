@@ -24,13 +24,13 @@ namespace experienciacessivel.application
         [DataMember]
         public string Name { get; set; }
         [DataMember]
-        public IList<AccessibleAttributes> AccessibleAttributes { get; set; }
+        public string[] AccessibleAttributes { get; set; }
 
-        public LocalResponse(int Id, string Name, IList<AccessibleAttributes> AccessibleAttributes)
+        public LocalResponse(Local objLocal)
         {
-            this.Id = Id;
-            this.Name = Name;
-            this.AccessibleAttributes = AccessibleAttributes;
+            this.Id = objLocal.Id;
+            this.Name = objLocal.Name;
+            this.AccessibleAttributes = objLocal.AccessibleAttributes.Select(q => q.Name).ToArray();
         }
 
     }

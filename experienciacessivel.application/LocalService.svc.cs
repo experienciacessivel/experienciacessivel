@@ -28,10 +28,8 @@ namespace experienciacessivel.application
 
             List<LocalResponse> listResponse = new List<LocalResponse>();
 
-            foreach (var l in locals)
-            {
-                listResponse.Add(new LocalResponse(l.Id, l.Name, l.AccessibleAttributes));
-            }
+            foreach (var loc in locals)            
+                listResponse.Add(new LocalResponse(loc));            
 
             return listResponse;
         }
