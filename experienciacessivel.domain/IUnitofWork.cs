@@ -6,7 +6,10 @@ using System.Text;
 namespace experienciacessivel.domain
 {
     public interface IUnitOfWork
-    {
-        void Save();
+        : IDisposable
+    {        
+        void Commit();        
+        void CommitAndRefreshChanges();
+        void RollbackChanges();
     }
 }

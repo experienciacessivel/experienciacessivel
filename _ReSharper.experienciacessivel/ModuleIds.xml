@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="97BA950F-598D-4CEB-AB8E-8CB758D35F05" ModuleId="experienciacessivel.application" />
+  <Module PersistentId="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6" ModuleId="experienciacessivel.infrastructure" />
+  <Module PersistentId="85A81B8A-D907-4272-9B97-7E7AC9F1455D" ModuleId="experienciacessivel.domain" />
+  <Module PersistentId="System.ServiceModel.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.ServiceModel.Web" />
+  <Module PersistentId="CD9AFEF6-549D-4506-A012-6E663B0518E5" ModuleId="experienciacessivel.console" />
+  <Module PersistentId="54E3C4C5-34EE-488D-8336-D0856A4D4BAF" ModuleId="experienciacessivel.domain_1" />
+  <Module PersistentId="B012320C-5DEB-45A4-8EE6-7FB51AD48060" ModuleId="experienciacessivel.domain.mainbc" />
+</Modules>
