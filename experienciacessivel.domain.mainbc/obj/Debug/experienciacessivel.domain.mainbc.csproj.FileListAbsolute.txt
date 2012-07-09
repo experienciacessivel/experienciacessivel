@@ -1,7 +1,0 @@
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\bin\Debug\experienciacessivel.domain.mainbc.dll
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\bin\Debug\experienciacessivel.domain.mainbc.pdb
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\bin\Debug\experienciacessivel.domain.dll
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\bin\Debug\experienciacessivel.domain.pdb
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\obj\Debug\ResolveAssemblyReference.cache
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\obj\Debug\experienciacessivel.domain.mainbc.dll
-D:\projetos\git\experienciacessivel\experienciacessivel.domain.mainbc\obj\Debug\experienciacessivel.domain.mainbc.pdb
