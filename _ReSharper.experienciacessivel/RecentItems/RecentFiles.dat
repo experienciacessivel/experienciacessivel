@@ -1,27 +1,45 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:LocalRepository.cs" caret="968" fromTop="11" />
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:ExperienciacessivelContext.cs" caret="402" fromTop="7" />
-    <File id="CD9AFEF6-549D-4506-A012-6E663B0518E5/f:Program.cs" caret="0" fromTop="0" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:ILocalService.cs" caret="848" fromTop="8" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:AccessibleAttribute.cs" caret="387" fromTop="15" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:Local.cs" caret="921" fromTop="5" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:LocalService.svc.cs" caret="0" fromTop="0" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ValueObject.cs" caret="4126" fromTop="24" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IdentityGenerator.cs" caret="13" fromTop="0" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="0" fromTop="0" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ISpecification.cs" caret="289" fromTop="12" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="273" fromTop="11" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IUnitOfWork.cs" caret="319" fromTop="14" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Place.cs" caret="0" fromTop="0" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Category.cs" caret="440" fromTop="18" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Address.cs" caret="453" fromTop="14" />
   </RecentFiles>
   <RecentEdits>
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:ExperienciacessivelContext.cs" caret="258" fromTop="9" />
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:ExperienciacessivelContext.cs" caret="402" fromTop="7" />
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:LocalRepository.cs" caret="508" fromTop="10" />
-    <File id="44C57CD1-A5B7-419E-82E0-287BAD8BD5F6/f:LocalRepository.cs" caret="903" fromTop="11" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:LocalService.svc.cs" caret="632" fromTop="8" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:AccessibleAttribute.cs" caret="661" fromTop="14" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:Local.cs" caret="524" fromTop="5" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:AccessibleAttribute.cs" caret="300" fromTop="8" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:LocalService.svc.cs" caret="1138" fromTop="8" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:ILocalService.cs" caret="848" fromTop="8" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:AccessibleAttribute.cs" caret="327" fromTop="12" />
-    <File id="85A81B8A-D907-4272-9B97-7E7AC9F1455D/f:Local.cs" caret="328" fromTop="12" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:LocalService.svc.cs" caret="2068" fromTop="7" />
-    <File id="97BA950F-598D-4CEB-AB8E-8CB758D35F05/f:LocalService.svc.cs" caret="2507" fromTop="10" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="2465" fromTop="19" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="2465" fromTop="25" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="306" fromTop="13" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="589" fromTop="18" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="699" fromTop="17" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="1091" fromTop="14" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="1533" fromTop="15" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="805" fromTop="17" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IdentityGenerator.cs" caret="451" fromTop="8" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IdentityGenerator.cs" caret="1614" fromTop="9" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IdentityGenerator.cs" caret="13" fromTop="0" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ValueObject.cs" caret="4129" fromTop="25" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ValueObject.cs" caret="94" fromTop="3" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:Entity.cs" caret="0" fromTop="0" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="918" fromTop="25" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="278" fromTop="13" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IUnitOfWork.cs" caret="321" fromTop="25" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="120" fromTop="4" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="655" fromTop="13" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ISpecification.cs" caret="100" fromTop="3" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:ISpecification.cs" caret="223" fromTop="9" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IRepository.cs" caret="259" fromTop="10" />
+    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/f:IUnitOfWork.cs" caret="318" fromTop="14" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Place.cs" caret="1164" fromTop="12" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Place.cs" caret="315" fromTop="8" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Place.cs" caret="1043" fromTop="17" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Place.cs" caret="473" fromTop="15" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Address.cs" caret="452" fromTop="16" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Category.cs" caret="365" fromTop="13" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:Address.cs" caret="444" fromTop="13" />
   </RecentEdits>
 </RecentFiles>
