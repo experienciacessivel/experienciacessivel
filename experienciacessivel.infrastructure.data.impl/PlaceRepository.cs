@@ -19,19 +19,25 @@ namespace experienciacessivel.infrastructure.data.impl
 
         }
 
-        public IEnumerable<Place> FindByAddress(Address address) 
+        
+        public IEnumerable<Place> FindByAddress(Guid addressId)
         {
-            throw new NotImplementedException();
+            return this.AllMatching(PlaceSpecifications.PlaceByAddress(addressId));
+        } 
+        
+        public IEnumerable<Place> FindByAddress(Address address)
+        {
+            return this.AllMatching(PlaceSpecifications.PlaceByAddress(address));
         }
         
-        public IEnumerable<Place> FindByCategory(Category category)
+        public IEnumerable<Place> FindByCategory(Guid categoryId)
         {
-            throw new NotImplementedException();
+            return this.AllMatching(PlaceSpecifications.PlaceByCategory(categoryId));
         }
 
         public IEnumerable<Place> FindByName(string name)
         {
-            throw new NotImplementedException();
+            return this.AllMatching(PlaceSpecifications.PlaceByName(name));
         }
     }
 }

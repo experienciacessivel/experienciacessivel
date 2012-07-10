@@ -8,7 +8,8 @@ namespace experienciacessivel.domain.mainbc
     public interface IPlaceRepository
     {
         IEnumerable<Place> FindByAddress(Address address);
-        IEnumerable<Place> FindByCategory(Category category);
+        IEnumerable<Place> FindByAddress(Guid addressId);
+        IEnumerable<Place> FindByCategory(Guid categoryId);
         IEnumerable<Place> FindByName(string name);
     }
 }
