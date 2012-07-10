@@ -5,4 +5,6 @@
   <Module PersistentId="1100DF44-D16E-4AF3-A22C-D309D5C80B0F" ModuleId="experienciacessivel.infrastructure.crosscutting" />
   <Module PersistentId="6385B198-4B8F-4B23-A11A-3429066BD2F9" ModuleId="experienciacessivel.infrastructure.impl" />
   <Module PersistentId="AFE2A3EE-E4EC-49C9-9BF4-18C9A1FB0E47" ModuleId="experienciacessivel.application.core" />
+  <Module PersistentId="190A5E25-99BC-431B-856F-EF0DB792DF22" ModuleId="experienciacessivel.infrastructure.data.impl" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
 </Modules>

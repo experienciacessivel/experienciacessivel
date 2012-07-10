@@ -19,11 +19,7 @@ namespace experienciacessivel.infrastructure.data
         #endregion
 
         #region Constructor
-
-        /// <summary>
-        /// Create a new instance of repository
-        /// </summary>
-        /// <param name="unitOfWork">Associated Unit Of Work</param>
+        
         public Repository(IQueryableUnitOfWork unitOfWork)
         {
             if (unitOfWork == (IUnitOfWork)null)

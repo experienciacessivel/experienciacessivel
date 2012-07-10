@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{54E3C4C5-34EE-488D-8336-D0856A4D4BAF}</ProjectGuid>
+    <ProjectGuid>{190A5E25-99BC-431B-856F-EF0DB792DF22}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>experienciacessivel.domain</RootNamespace>
-    <AssemblyName>experienciacessivel.domain</AssemblyName>
+    <RootNamespace>experienciacessivel.infrastructure.data.impl</RootNamespace>
+    <AssemblyName>experienciacessivel.infrastructure.data.impl</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,22 +40,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity.cs" />
-    <Compile Include="IdentityGenerator.cs" />
-    <Compile Include="IRepository.cs" />
-    <Compile Include="ISpecification.cs" />
-    <Compile Include="IUnitOfWork.cs" />
+    <Compile Include="PlaceRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Specification\AndSpecification.cs" />
-    <Compile Include="Specification\CompositeSpecification.cs" />
-    <Compile Include="Specification\DirectSpecification.cs" />
-    <Compile Include="Specification\NotSpecification.cs" />
-    <Compile Include="Specification\OrSpecification.cs" />
-    <Compile Include="Specification\ParametersRebinder.cs" />
-    <Compile Include="Specification\Specification.cs" />
-    <Compile Include="Specification\SpecificationBuilder.cs" />
-    <Compile Include="Specification\TrueSpecification.cs" />
-    <Compile Include="ValueObject.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\experienciacessivel.domain.mainbc\experienciacessivel.domain.mainbc.csproj">
+      <Project>{B012320C-5DEB-45A4-8EE6-7FB51AD48060}</Project>
+      <Name>experienciacessivel.domain.mainbc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.domain\experienciacessivel.domain.csproj">
+      <Project>{54E3C4C5-34EE-488D-8336-D0856A4D4BAF}</Project>
+      <Name>experienciacessivel.domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.crosscutting\experienciacessivel.infrastructure.crosscutting.csproj">
+      <Project>{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}</Project>
+      <Name>experienciacessivel.infrastructure.crosscutting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.data\experienciacessivel.infrastructure.data.csproj">
+      <Project>{0D277E1D-2919-437F-A204-5765608347B6}</Project>
+      <Name>experienciacessivel.infrastructure.data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
