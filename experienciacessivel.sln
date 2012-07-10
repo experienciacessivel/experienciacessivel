@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "experienciacessivel.infrast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "experienciacessivel.infrastructure.crosscutting", "experienciacessivel.infrastructure.crosscutting\experienciacessivel.infrastructure.crosscutting.csproj", "{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "experienciacessivel.infrastructure.impl", "experienciacessivel.infrastructure.impl\experienciacessivel.infrastructure.impl.csproj", "{6385B198-4B8F-4B23-A11A-3429066BD2F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6385B198-4B8F-4B23-A11A-3429066BD2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6385B198-4B8F-4B23-A11A-3429066BD2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6385B198-4B8F-4B23-A11A-3429066BD2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6385B198-4B8F-4B23-A11A-3429066BD2F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +56,6 @@ Global
 		{B012320C-5DEB-45A4-8EE6-7FB51AD48060} = {6B604586-19AA-4B25-AF72-0D32D3DD9FD8}
 		{0D277E1D-2919-437F-A204-5765608347B6} = {72CA93F7-64DB-41D6-8840-01CC4D62FAEC}
 		{1100DF44-D16E-4AF3-A22C-D309D5C80B0F} = {72CA93F7-64DB-41D6-8840-01CC4D62FAEC}
+		{6385B198-4B8F-4B23-A11A-3429066BD2F9} = {72CA93F7-64DB-41D6-8840-01CC4D62FAEC}
 	EndGlobalSection
 EndGlobal

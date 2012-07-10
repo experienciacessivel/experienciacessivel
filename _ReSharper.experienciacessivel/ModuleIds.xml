@@ -3,4 +3,5 @@
   <Module PersistentId="B012320C-5DEB-45A4-8EE6-7FB51AD48060" ModuleId="experienciacessivel.domain.mainbc" />
   <Module PersistentId="0D277E1D-2919-437F-A204-5765608347B6" ModuleId="experienciacessivel.infrastructure.data" />
   <Module PersistentId="1100DF44-D16E-4AF3-A22C-D309D5C80B0F" ModuleId="experienciacessivel.infrastructure.crosscutting" />
+  <Module PersistentId="6385B198-4B8F-4B23-A11A-3429066BD2F9" ModuleId="experienciacessivel.infrastructure.impl" />
 </Modules>
