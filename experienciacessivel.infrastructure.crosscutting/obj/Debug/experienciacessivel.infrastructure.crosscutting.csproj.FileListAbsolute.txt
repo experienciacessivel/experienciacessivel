@@ -1,0 +1,5 @@
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.crosscutting\bin\Debug\experienciacessivel.infrastructure.crosscutting.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.crosscutting\bin\Debug\experienciacessivel.infrastructure.crosscutting.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.crosscutting\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.crosscutting\obj\Debug\experienciacessivel.infrastructure.crosscutting.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.crosscutting\obj\Debug\experienciacessivel.infrastructure.crosscutting.pdb

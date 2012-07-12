@@ -1,0 +1,15 @@
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.data.impl.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.data.impl.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.domain.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.domain.mainbc.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.crosscutting.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.data.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\EntityFramework.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.domain.mainbc.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.domain.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.crosscutting.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\experienciacessivel.infrastructure.data.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\bin\Debug\EntityFramework.xml
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\obj\Debug\experienciacessivel.infrastructure.data.impl.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.data.impl\obj\Debug\experienciacessivel.infrastructure.data.impl.pdb

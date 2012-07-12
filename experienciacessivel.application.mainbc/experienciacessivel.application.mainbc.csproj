@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D1A750B-F08D-4A44-9A16-46BEFDE86409}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>experienciacessivel.application.mainbc</RootNamespace>
+    <AssemblyName>experienciacessivel.application.mainbc</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CategoryDTO.cs" />
+    <Compile Include="IPlaceAppService.cs" />
+    <Compile Include="PlaceAppService.cs" />
+    <Compile Include="PlaceDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\experienciacessivel.application.core\experienciacessivel.application.core.csproj">
+      <Project>{AFE2A3EE-E4EC-49C9-9BF4-18C9A1FB0E47}</Project>
+      <Name>experienciacessivel.application.core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.domain.mainbc\experienciacessivel.domain.mainbc.csproj">
+      <Project>{B012320C-5DEB-45A4-8EE6-7FB51AD48060}</Project>
+      <Name>experienciacessivel.domain.mainbc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.domain\experienciacessivel.domain.csproj">
+      <Project>{54E3C4C5-34EE-488D-8336-D0856A4D4BAF}</Project>
+      <Name>experienciacessivel.domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.crosscutting\experienciacessivel.infrastructure.crosscutting.csproj">
+      <Project>{1100DF44-D16E-4AF3-A22C-D309D5C80B0F}</Project>
+      <Name>experienciacessivel.infrastructure.crosscutting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.data.impl\experienciacessivel.infrastructure.data.impl.csproj">
+      <Project>{190A5E25-99BC-431B-856F-EF0DB792DF22}</Project>
+      <Name>experienciacessivel.infrastructure.data.impl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.data\experienciacessivel.infrastructure.data.csproj">
+      <Project>{0D277E1D-2919-437F-A204-5765608347B6}</Project>
+      <Name>experienciacessivel.infrastructure.data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experienciacessivel.infrastructure.impl\experienciacessivel.infrastructure.impl.csproj">
+      <Project>{6385B198-4B8F-4B23-A11A-3429066BD2F9}</Project>
+      <Name>experienciacessivel.infrastructure.impl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

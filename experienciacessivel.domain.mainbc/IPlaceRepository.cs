@@ -5,7 +5,7 @@ using System.Text;
 
 namespace experienciacessivel.domain.mainbc
 {
-    public interface IPlaceRepository
+    public interface IPlaceRepository : IRepository<Place>
     {
         IEnumerable<Place> FindByAddress(Address address);
         IEnumerable<Place> FindByAddress(Guid addressId);

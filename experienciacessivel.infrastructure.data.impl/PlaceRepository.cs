@@ -22,22 +22,22 @@ namespace experienciacessivel.infrastructure.data.impl
         
         public IEnumerable<Place> FindByAddress(Guid addressId)
         {
-            return this.AllMatching(PlaceSpecifications.PlaceByAddress(addressId));
+            return this.AllMatching(PlaceSpecifications.ByAddress(addressId));
         } 
         
         public IEnumerable<Place> FindByAddress(Address address)
         {
-            return this.AllMatching(PlaceSpecifications.PlaceByAddress(address));
+            return this.AllMatching(PlaceSpecifications.ByAddress(address));
         }
         
         public IEnumerable<Place> FindByCategory(Guid categoryId)
         {
-            return this.AllMatching(PlaceSpecifications.PlaceByCategory(categoryId));
+            return this.AllMatching(PlaceSpecifications.ByCategory(categoryId));
         }
 
         public IEnumerable<Place> FindByName(string name)
         {
-            return this.AllMatching(PlaceSpecifications.PlaceByName(name));
+            return this.AllMatching(PlaceSpecifications.ByName(name));
         }
     }
 }

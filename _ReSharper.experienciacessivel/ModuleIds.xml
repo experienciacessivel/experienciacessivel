@@ -7,4 +7,5 @@
   <Module PersistentId="AFE2A3EE-E4EC-49C9-9BF4-18C9A1FB0E47" ModuleId="experienciacessivel.application.core" />
   <Module PersistentId="190A5E25-99BC-431B-856F-EF0DB792DF22" ModuleId="experienciacessivel.infrastructure.data.impl" />
   <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="9D1A750B-F08D-4A44-9A16-46BEFDE86409" ModuleId="experienciacessivel.application.mainbc" />
 </Modules>

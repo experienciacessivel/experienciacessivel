@@ -10,7 +10,7 @@ namespace experienciacessivel.domain.mainbc
     public static class PlaceSpecifications
     {
         
-        public static ISpecification<Place> PlaceByAddress(Guid addressId)
+        public static ISpecification<Place> ByAddress(Guid addressId)
         {
             Specification<Place> specification = new TrueSpecification<Place>();
 
@@ -24,7 +24,7 @@ namespace experienciacessivel.domain.mainbc
             return specification;
         }
 
-        public static ISpecification<Place> PlaceByAddress(Address address)
+        public static ISpecification<Place> ByAddress(Address address)
         {            
             Specification<Place> specification = new TrueSpecification<Place>();
             
@@ -51,7 +51,7 @@ namespace experienciacessivel.domain.mainbc
             return specification;
         }
 
-        public static ISpecification<Place> PlaceByCategory(Guid categoryId)
+        public static ISpecification<Place> ByCategory(Guid categoryId)
         {
             Specification<Place> specification = new TrueSpecification<Place>();
 
@@ -65,7 +65,7 @@ namespace experienciacessivel.domain.mainbc
             return specification;
         }
 
-        public static ISpecification<Place> PlaceByName(string name)
+        public static ISpecification<Place> ByName(string name)
         {
             Specification<Place> specification = new TrueSpecification<Place>();
 

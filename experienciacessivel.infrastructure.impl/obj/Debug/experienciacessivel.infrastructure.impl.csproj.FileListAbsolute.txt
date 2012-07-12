@@ -1,0 +1,9 @@
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\experienciacessivel.infrastructure.impl.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\experienciacessivel.infrastructure.impl.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\AutoMapper.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\experienciacessivel.infrastructure.crosscutting.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\experienciacessivel.infrastructure.crosscutting.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\bin\Debug\AutoMapper.xml
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\obj\Debug\experienciacessivel.infrastructure.impl.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.infrastructure.impl\obj\Debug\experienciacessivel.infrastructure.impl.pdb

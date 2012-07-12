@@ -1,10 +1,5 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Logging/f:LoggerFactory.cs" caret="931" fromTop="14" />
-    <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Logging/f:ILoggerFactory.cs" caret="333" fromTop="13" />
-    <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Adapter/f:ITypeAdapterFactory.cs" caret="259" fromTop="11" />
-    <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Adapter/f:ITypeAdapter.cs" caret="437" fromTop="13" />
-    <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Adapter/f:TypeAdapterFactory.cs" caret="718" fromTop="21" />
     <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Validator/f:IEntityValidator.cs" caret="426" fromTop="16" />
     <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Validator/f:IEntityValidatorFactory.cs" caret="266" fromTop="10" />
     <File id="1100DF44-D16E-4AF3-A22C-D309D5C80B0F/d:Validator/f:EntityValidatorFactory.cs" caret="675" fromTop="22" />
@@ -16,7 +11,6 @@
     <File id="6385B198-4B8F-4B23-A11A-3429066BD2F9/d:Validator/f:DataAnnotationsEntityValidator.cs" caret="0" fromTop="0" />
     <File id="AFE2A3EE-E4EC-49C9-9BF4-18C9A1FB0E47/f:ApplicationValidationErrorsException.cs" caret="1010" fromTop="15" />
     <File id="AFE2A3EE-E4EC-49C9-9BF4-18C9A1FB0E47/f:ProjectionsExtensionMethods.cs" caret="893" fromTop="25" />
-    <File id="0D277E1D-2919-437F-A204-5765608347B6/f:Repository.cs" caret="503" fromTop="17" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:Specification.cs" caret="2209" fromTop="16" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:CompositeSpecification.cs" caret="789" fromTop="29" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:NotSpecification.cs" caret="324" fromTop="13" />
@@ -27,40 +21,44 @@
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:SpecificationBuilder.cs" caret="1141" fromTop="16" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:OrSpecification.cs" caret="2324" fromTop="17" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:TrueSpecification.cs" caret="157" fromTop="6" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="822" fromTop="26" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:IPlaceRepository.cs" caret="364" fromTop="11" />
-    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="693" fromTop="15" />
+    <File id="0D277E1D-2919-437F-A204-5765608347B6/f:Repository.cs" caret="459" fromTop="18" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2679" fromTop="25" />
+    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="977" fromTop="17" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceDTO.cs" caret="150" fromTop="7" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:CategoryDTO.cs" caret="190" fromTop="10" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:IPlaceAppService.cs" caret="247" fromTop="10" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="1136" fromTop="12" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:IPlaceRepository.cs" caret="198" fromTop="7" />
   </RecentFiles>
   <RecentEdits>
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:NotSpecification.cs" caret="2151" fromTop="30" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:NotSpecification.cs" caret="125" fromTop="5" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:OrSpecification.cs" caret="157" fromTop="6" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:CompositeSpecification.cs" caret="789" fromTop="29" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:OrSpecification.cs" caret="2371" fromTop="30" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:DirectSpecification.cs" caret="1270" fromTop="30" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:DirectSpecification.cs" caret="157" fromTop="6" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:OrSpecification.cs" caret="2333" fromTop="17" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:SpecificationBuilder.cs" caret="2543" fromTop="30" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:SpecificationBuilder.cs" caret="102" fromTop="4" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:SpecificationBuilder.cs" caret="1150" fromTop="16" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:ParametersRebinder.cs" caret="1714" fromTop="30" />
-    <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:ParametersRebinder.cs" caret="518" fromTop="16" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:TrueSpecification.cs" caret="1141" fromTop="30" />
     <File id="54E3C4C5-34EE-488D-8336-D0856A4D4BAF/d:Specification/f:TrueSpecification.cs" caret="182" fromTop="6" />
     <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="123" fromTop="4" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1718" fromTop="22" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1717" fromTop="23" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1860" fromTop="21" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2133" fromTop="15" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2675" fromTop="24" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1023" fromTop="16" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="946" fromTop="14" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="563" fromTop="18" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="308" fromTop="12" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="822" fromTop="26" />
-    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="668" fromTop="17" />
-    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="1196" fromTop="22" />
-    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:IPlaceRepository.cs" caret="364" fromTop="11" />
-    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="938" fromTop="20" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1708" fromTop="22" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1707" fromTop="23" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2118" fromTop="15" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2655" fromTop="24" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1013" fromTop="16" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="936" fromTop="14" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="558" fromTop="18" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="812" fromTop="26" />
+    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="663" fromTop="17" />
+    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="1176" fromTop="22" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:IPlaceRepository.cs" caret="385" fromTop="11" />
+    <File id="190A5E25-99BC-431B-856F-EF0DB792DF22/f:PlaceRepository.cs" caret="928" fromTop="20" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="330" fromTop="12" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="1819" fromTop="20" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:PlaceSpecifications.cs" caret="2265" fromTop="20" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="1510" fromTop="7" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:IPlaceAppService.cs" caret="200" fromTop="9" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:IPlaceAppService.cs" caret="508" fromTop="12" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceDTO.cs" caret="184" fromTop="9" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:CategoryDTO.cs" caret="190" fromTop="10" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:IPlaceAppService.cs" caret="430" fromTop="9" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="1057" fromTop="14" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="342" fromTop="11" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="478" fromTop="15" />
+    <File id="B012320C-5DEB-45A4-8EE6-7FB51AD48060/f:IPlaceRepository.cs" caret="197" fromTop="7" />
+    <File id="9D1A750B-F08D-4A44-9A16-46BEFDE86409/f:PlaceAppService.cs" caret="1487" fromTop="22" />
   </RecentEdits>
 </RecentFiles>

@@ -1,0 +1,5 @@
+D:\projetos\git\experienciacessivel\experienciacessivel.domain\bin\Debug\experienciacessivel.domain.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.domain\bin\Debug\experienciacessivel.domain.pdb
+D:\projetos\git\experienciacessivel\experienciacessivel.domain\obj\Debug\ResolveAssemblyReference.cache
+D:\projetos\git\experienciacessivel\experienciacessivel.domain\obj\Debug\experienciacessivel.domain.dll
+D:\projetos\git\experienciacessivel\experienciacessivel.domain\obj\Debug\experienciacessivel.domain.pdb
